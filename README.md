@@ -6,7 +6,7 @@ https://github.com/ArminJo/Talkie
 
 https://github.com/going-digital/Talkie/tree/master/Talkie/encoder/freemat
 
-When you convert on Freemat wav file to firmware you get ling bit sequence like 
+When you convert on Freemat wav file to firmware you get long bit sequence like 
 
 `101000101010111101011010101110110010101011000101001001000111001001011010110011110001`
 
